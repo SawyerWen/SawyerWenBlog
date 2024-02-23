@@ -1,0 +1,49 @@
+# user
+user:
+  name: 温世洋(Sawyer)
+  first_name: 世洋
+  last_name: 温
+  email: SawyerWenBlog@outlook.com
+  domain: https://sawyerwen.github.io/
+  describe: GameDever
+# assets 
+assets:
+  internal_provider: unpkg # local | unpkg | jsdelivr
+  third_party_provider: unpkg # unpkg | jsdelivr
+
+top_bars:
+  - title: menu.home
+    url: /
+  - title: menu.archives
+    url: /archives/
+  - title: menu.categories
+    url: /categories/
+  - title: menu.tags
+    url: /tags/
+
+sidebar:
+  typedTextPrefix: I`m
+  typedText: ["Game Creater"]
+  info: # 个人信息
+    - key: 地址
+      val: 黑龙江 哈尔滨
+    - key: 年龄
+      val: 30
+  social:
+
+
+footer:
+  powered:
+    enable: false
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 02/23/2024 10:00:00
+
+# 目录
+toc:
+  enable: true
+  list_number: true
+  post_title: false
+  max_depth: 3
+  min_depth: 1

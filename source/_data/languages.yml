@@ -1,0 +1,12 @@
+# 将要覆盖的语言
+
+# 您也可以扩展其他语言
+en:
+  menu:
+    categories: categories
+    tags: tags
+
+zh-Hans:
+  menu:
+    categories: 分类
+    tags: 标签
